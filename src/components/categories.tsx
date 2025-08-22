@@ -14,11 +14,11 @@ const Categories = () => {
   return (
     <ul className='flex justify-center gap-1 mt-2 mx-auto w-full'>
       {categories.map((item) => (
-        <li key={item.name} className='group hover:text-[#00ffff] relative rounded-4xl'>
+        <li key={item.name} className='group hover:text-[#00ffff] relative rounded-4xl cursor-pointer'>
           <Link href='/features'>
             <img src={item.src} alt={'categories'} width={185} height={195} />
           </Link>
-          <span className=' group-hover:text-[#00ffff] transition-all duration-400 ease-in-out absolute bottom-3 left-1/2 -translate-x-1/2 text-white text-[0.875em] font-bold'>
+          <span className='w-full absolute bottom-3 left-1/2 -translate-x-1/2 text-white text-[1.5em] font-bold text-center group-hover:text-[#00ffff] transition-all duration-400 ease-in-out'>
             {item.name}
           </span>
         </li>
