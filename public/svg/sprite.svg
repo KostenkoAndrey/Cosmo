@@ -1,0 +1,13 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+    <symbol id="Calendar-Left" viewBox="0 0 18 32">
+        <path d="M15.787 1.582c0.599 0.513 0.668 1.415 0.155 2.014l-10.632 12.404 10.632 12.404c0.513 0.599 0.444 1.501-0.155 2.014s-1.501 0.444-2.014-0.155l-11.429-13.333c-0.459-0.535-0.459-1.324 0-1.859l11.429-13.333c0.513-0.599 1.415-0.668 2.014-0.155z"></path>
+    </symbol>
+    <symbol id="Calendar-Right" viewBox="0 0 18 32">
+        <path d="M2.499 1.582c0.599-0.513 1.501-0.444 2.014 0.155l11.429 13.333c0.459 0.535 0.459 1.324 0 1.859l-11.429 13.333c-0.513 0.599-1.415 0.669-2.014 0.155s-0.668-1.415-0.155-2.014l10.632-12.404-10.632-12.404c-0.513-0.599-0.444-1.501 0.155-2.014z"></path>
+    </symbol>
+    <symbol id="Arrow-Down" viewBox="0 0 32 32">
+        <path fill="current" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.4" d="M26.56 11.934l-8.693 8.693c-1.027 1.027-2.707 1.027-3.733 0l-8.693-8.693"></path>
+    </symbol>
+</defs>
+</svg>
